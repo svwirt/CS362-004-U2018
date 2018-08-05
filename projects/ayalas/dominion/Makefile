@@ -11,7 +11,7 @@ testadventurer:
 
 randomtestadventurer: testadventurer
 	./randomtestadventurer &> randomtestadventurer.out
-	gcov dominion.c >> randomtestadventurer.out
+	gcov -b dominion.c >> randomtestadventurer.out
 	cat dominion.c.gcov >> randomtestadventurer.out
 
 randomcard1:
@@ -19,7 +19,7 @@ randomcard1:
 
 randomtestcard1: randomcard1
 	./randomtestcard1 &> randomtestcard1.out
-	gcov dominion.c >> randomtestcard1.out
+	gcov -b dominion.c >> randomtestcard1.out
 	cat dominion.c.gcov >> randomtestcard1.out
 
 randomcard2:
@@ -27,7 +27,7 @@ randomcard2:
 
 randomtestcard2: randomcard2
 	./randomtestcard2 &> randomtestcard2.out
-	gcov dominion.c >> randomtestcard2.out
+	gcov -b dominion.c >> randomtestcard2.out
 	cat dominion.c.gcov >> randomtestcard2.out
 
 playdom: dominion.o playdom.c
@@ -77,9 +77,6 @@ unittest3: unittest3.c dominion.o rngs.o
 unittest4: unittest4.c dominion.o rngs.o
 	gcc -o unittest4 -g unittest4.c dominion.o rngs.o $(CFLAGS)
 
-
-# handcount: dominion.o testHandCount.c
-# 	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.o testHandCount.c rngs.c -o handcount -lm -g
 
 unittestresults.out: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c cardtest2.c cardtest3.c cardtest4.c 
 	make rngs.o
