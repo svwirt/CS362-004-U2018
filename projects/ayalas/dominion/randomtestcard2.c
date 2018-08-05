@@ -9,7 +9,7 @@
 #define NUM_TESTS 100
 #define GAME_LIMIT 6
 
-// Randomly test smitht cars
+// random village test
 int main() {
 
     int k[10] = {
@@ -40,17 +40,17 @@ int main() {
         failed=0,
         passed=0;
 
-    //struct gameState state;
+
     struct gameState * gState;
 
     printf("Running Random Card Test for Village\n");
 
-    // Runs NUM_TESTS.
+    // Runs 100 tests
     for( i=0; i<NUM_TESTS; i++ )
     {
         // random number of players
         players = rand() % 4;
-        seed = rand();      //pick random seed
+        seed = rand();   
         gState = malloc(sizeof(struct gameState));
 
         //initialize Gamestate
@@ -61,16 +61,22 @@ int main() {
         gState->discardCount[player] = rand() % MAX_DECK;
         gState->handCount[player] = rand() % MAX_HAND;
 
+        // get actions, hand, deck and discard before
         beforeActions = gState->numActions;
         beforeHand = gState->handCount[player];
         beforeDeck = gState->deckCount[player];
         beforeDiscard = gState->discardCount[player];
+
+        // run village card
         cardEffect(village, 1, 1, 1, gState, 0, 0);
+
+        // get actions, hand, deck and discard after card effect
         afterHand = gState->handCount[player];
         afterDeck = gState->deckCount[player];
         afterDiscard = gState->discardCount[player];
         afterActions = gState->numActions;
          
+         // the hand should remain the same
          if(afterHand == beforeHand){
             printf("Hand Test %d passed: before-%d after-%d\n", i, beforeHand, afterHand);
             passed++;
@@ -80,6 +86,7 @@ int main() {
             failed++;
          }
 
+         // deck should have one less card
          if(afterDeck + 1 == beforeDeck){
             printf("Deck Test %d passed: before-%d after-%d\n", i, beforeDeck, afterDeck);
             passed++;
@@ -89,6 +96,7 @@ int main() {
             failed++;
          }
 
+         // discard should remain the same
          if(afterDiscard == beforeDiscard){
             printf("Discard Test %d passed: before-%d after-%d\n", i, beforeDiscard, afterDiscard);
             passed++;
@@ -98,7 +106,7 @@ int main() {
             failed++;
          }
 
-
+         // two more actions
          if(afterActions == beforeActions + 2){
             printf("Actions Test %d passed: before-%d after-%d\n", i, beforeActions, afterActions);
             passed++;
@@ -107,16 +115,6 @@ int main() {
             printf("Actions Test %d failed: before-%d after-%d\n", i, beforeActions, afterActions);
             failed++;
          }
-
-
-        // printf("beforeHand %d\n", beforeHand);
-        // printf("afterHand %d\n", afterHand);
-        // printf("beforeDeck %d\n", beforeDeck);
-        // printf("afterDeck %d\n", afterDeck); 
-        // printf("beforeDiscard %d\n", beforeDiscard);
-        // printf("afterDiscard %d\n", afterDiscard);
-        // printf("\nbeforeActions %d\n", beforeActions);
-        // printf("afterActions %d\n\n", afterActions);
 
         free(gState);
 

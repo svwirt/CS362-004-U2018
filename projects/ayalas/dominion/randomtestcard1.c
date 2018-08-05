@@ -9,9 +9,9 @@
 #define NUM_TESTS 100
 #define GAME_LIMIT 6
 
-// Randomly test mine card
+// testing Smithy card
 int main() {
-    // Create array of cards in the game
+
     int k[10] = {
                   adventurer,
                   gardens,
@@ -25,7 +25,6 @@ int main() {
                   smithy
                 };
 
-    // Create integers for misc use
     int i, j,
         players,
         seed,
@@ -39,36 +38,41 @@ int main() {
         failed=0,
         passed=0;
 
-    //struct gameState state;
+
     struct gameState * gState;
 
     printf("Running Random Card Test for Smithy\n");
 
-    // Runs NUM_TESTS.
+    // Runs 100 tests
     for( i=0; i<NUM_TESTS; i++ )
     {
-
+        // random number of players
         players = rand() % 4;
-        seed = rand();      //pick random seed
+        seed = rand();      
         gState = malloc(sizeof(struct gameState));
 
         //initialize Gamestate
         initializeGame(players, k, seed, gState);
 
-        //Initiate valid state variables
-        //Pick random deck size out of MAX DECK size
+        // random deck, discard, and hand count
         gState->deckCount[player] = rand() % MAX_DECK; 
         gState->discardCount[player] = rand() % MAX_DECK;
         gState->handCount[player] = rand() % MAX_HAND;
 
+        // get hand, deck and discard before
         beforeHand = gState->handCount[player];
         beforeDeck = gState->deckCount[player];
         beforeDiscard = gState->discardCount[player];
+
+        // run smithy card
         cardEffect(smithy, 1, 1, 1, gState, 0, 0);
+
+        // get hand deck and discard after 
         afterHand = gState->handCount[player];
         afterDeck = gState->deckCount[player];
         afterDiscard = gState->discardCount[player];
          
+         // there should be two more cards in the hand after
          if(afterHand == beforeHand + 2){
             printf("Hand Test %d passed: before-%d after-%d\n", i, beforeHand, afterHand);
             passed++;
@@ -78,6 +82,7 @@ int main() {
             failed++;
          }
 
+         // the deck should have three less cards
          if(afterDeck + 3 == beforeDeck){
             printf("Deck Test %d passed: before-%d after-%d\n", i, beforeDeck, afterDeck);
             passed++;
@@ -87,6 +92,7 @@ int main() {
             failed++;
          }
 
+         // discard should be the same
          if(afterDiscard == beforeDiscard){
             printf("Discard Test %d passed: before-%d after-%d\n", i, beforeDiscard, afterDiscard);
             passed++;
@@ -95,8 +101,6 @@ int main() {
             printf("Discard Test %d failed: before-%d after-%d\n", i, beforeDiscard, afterDiscard);
             failed++;
          }
-        // printf("beforeDiscard %d\n", beforeDiscard);
-        // printf("afterDiscard %d\n", afterDiscard);
 
 
         free(gState);

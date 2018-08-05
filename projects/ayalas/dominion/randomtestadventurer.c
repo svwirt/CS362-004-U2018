@@ -9,7 +9,7 @@
 #define NUM_TESTS 100
 #define GAME_LIMIT 6
 
-// Randomly test smitht cars
+// Randomly test Adventurer
 int main() {
 
     int k[10] = {
@@ -42,17 +42,17 @@ int main() {
         failed=0,
         passed=0;
 
-    //struct gameState state;
+
     struct gameState * gState;
 
     printf("Running Random Card Test for Adventurer\n");
 
-    // Runs NUM_TESTS.
+    // Runs 100 tests.
     for( i=0; i<NUM_TESTS; i++ )
     {
         // random number of players
         players = rand() % 4;
-        seed = rand();      //pick random seed
+        seed = rand();     
         gState = malloc(sizeof(struct gameState));
 
         //initialize Gamestate
@@ -63,31 +63,27 @@ int main() {
         gState->discardCount[player] = rand() % MAX_DECK;
         gState->handCount[player] = rand() % MAX_HAND;
 
+        // get the hand, deck, and discard count before card effect
         beforeHand = gState->handCount[player];
         beforeDeck = gState->deckCount[player];
         beforeDiscard = gState->discardCount[player];
+
+        // run card
         cardEffect(adventurer, 1, 1, 1, gState, 0, 0);
+
+        // get the hand, deck, and discard count after card effect
         afterHand = gState->handCount[player];
         afterDeck = gState->deckCount[player];
         afterDiscard = gState->discardCount[player];
 
+        // The difference in the deck count will be the amount that went into the discard and hand
+        // the discard pile will have what came out of the deck minus what went into the hand
         deckChange = beforeDeck - afterDeck;
         discardChange = afterDiscard - beforeDiscard;
         expectedAfterDeck = beforeDeck - discardChange - 2;
         expectedAfterDiscard = deckChange + beforeDiscard - 2;
 
-
-        // printf("\nbeforeHand %d\n", beforeHand);
-        // printf("afterHand %d\n", afterHand);
-        // printf("beforeDeck %d\n", beforeDeck);
-        // printf("afterDeck %d\n", afterDeck);
-        // printf("beforeDiscard %d\n", beforeDiscard);
-        // printf("afterDiscard %d\n", afterDiscard);
-        // printf("deckChange %d\n", deckChange);
-        // printf("discardChange %d\n", discardChange);
-        // printf("expectedAfterDeck %d\n", expectedAfterDeck);
-        // printf("expectedAfterDiscard %d\n", expectedAfterDiscard);
-         
+         // Test hand, deck, and discard piles
          if(afterHand == beforeHand + 2){
             printf("Hand Test %d passed: before-%d after-%d\n", i, beforeHand, afterHand);
             passed++;

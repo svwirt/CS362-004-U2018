@@ -1,411 +1,510 @@
-Running Random Card Test for Village
-Hand Test 0 passed: before-293 after-293
-Deck Test 0 passed: before-277 after-276
+Running Random Card Test for Smithy
+Hand Test 0 failed: before-293 after-296
+
+Deck Test 0 Test 277 failed: before-273 after-127916424
+
 Discard Test 0 passed: before-415 after-415
-Actions Test 0 passed: before-1 after-3
-Hand Test 1 passed: before-421 after-421
-Deck Test 1 passed: before-492 after-491
+Hand Test 1 failed: before-421 after-424
+
+Deck Test 1 Test 492 failed: before-488 after-127916424
+
 Discard Test 1 passed: before-149 after-149
-Actions Test 1 passed: before-1 after-3
-Hand Test 2 passed: before-263 after-263
-Deck Test 2 passed: before-190 after-189
+Hand Test 2 failed: before-263 after-266
+
+Deck Test 2 Test 190 failed: before-186 after-127916424
+
 Discard Test 2 passed: before-59 after-59
-Actions Test 2 passed: before-1 after-3
-Hand Test 3 passed: before-236 after-236
-Deck Test 3 passed: before-426 after-425
+Hand Test 3 failed: before-236 after-239
+
+Deck Test 3 Test 426 failed: before-422 after-127916424
+
 Discard Test 3 passed: before-172 after-172
-Actions Test 3 passed: before-1 after-3
-Hand Test 4 passed: before-282 after-282
-Deck Test 4 passed: before-67 after-66
+Hand Test 4 failed: before-282 after-285
+
+Deck Test 4 Test 67 failed: before-63 after-127916424
+
 Discard Test 4 passed: before-429 after-429
-Actions Test 4 passed: before-1 after-3
-Hand Test 5 passed: before-135 after-135
-Deck Test 5 passed: before-123 after-122
+Hand Test 5 failed: before-135 after-138
+
+Deck Test 5 Test 123 failed: before-119 after-127916424
+
 Discard Test 5 passed: before-67 after-67
-Actions Test 5 passed: before-1 after-3
-Hand Test 6 passed: before-69 after-69
-Deck Test 6 passed: before-22 after-21
+Hand Test 6 failed: before-69 after-72
+
+Deck Test 6 Test 22 failed: before-18 after-127916424
+
 Discard Test 6 passed: before-58 after-58
-Actions Test 6 passed: before-3 after-5
-Hand Test 7 passed: before-42 after-42
-Deck Test 7 passed: before-456 after-455
+Hand Test 7 failed: before-42 after-45
+
+Deck Test 7 Test 456 failed: before-452 after-127916424
+
 Discard Test 7 passed: before-11 after-11
-Actions Test 7 passed: before-1 after-3
-Hand Test 8 passed: before-284 after-284
-Deck Test 8 passed: before-421 after-420
+Hand Test 8 failed: before-284 after-287
+
+Deck Test 8 Test 421 failed: before-417 after-127916424
+
 Discard Test 8 passed: before-419 after-419
-Actions Test 8 passed: before-3 after-5
-Hand Test 9 passed: before-370 after-370
-Deck Test 9 passed: before-324 after-323
+Hand Test 9 failed: before-370 after-373
+
+Deck Test 9 Test 324 failed: before-320 after-127916424
+
 Discard Test 9 passed: before-315 after-315
-Actions Test 9 passed: before-5 after-7
-Hand Test 10 passed: before-456 after-456
-Deck Test 10 passed: before-91 after-90
+Hand Test 10 failed: before-456 after-459
+
+Deck Test 10 Test 91 failed: before-87 after-127916424
+
 Discard Test 10 passed: before-480 after-480
-Actions Test 10 passed: before-7 after-9
-Hand Test 11 passed: before-281 after-281
-Deck Test 11 passed: before-170 after-169
+Hand Test 11 failed: before-281 after-284
+
+Deck Test 11 Test 170 failed: before-166 after-127916424
+
 Discard Test 11 passed: before-496 after-496
-Actions Test 11 passed: before-9 after-11
-Hand Test 12 passed: before-336 after-336
-Deck Test 12 passed: before-84 after-83
+Hand Test 12 failed: before-336 after-339
+
+Deck Test 12 Test 84 failed: before-80 after-127916424
+
 Discard Test 12 passed: before-327 after-327
-Actions Test 12 passed: before-11 after-13
-Hand Test 13 passed: before-357 after-357
-Deck Test 13 passed: before-229 after-228
+Hand Test 13 failed: before-357 after-360
+
+Deck Test 13 Test 229 failed: before-225 after-127916424
+
 Discard Test 13 passed: before-313 after-313
-Actions Test 13 passed: before-13 after-15
-Hand Test 14 passed: before-314 after-314
-Deck Test 14 passed: before-82 after-81
+Hand Test 14 failed: before-314 after-317
+
+Deck Test 14 Test 82 failed: before-78 after-127916424
+
 Discard Test 14 passed: before-45 after-45
-Actions Test 14 passed: before-15 after-17
-Hand Test 15 passed: before-250 after-250
-Deck Test 15 passed: before-364 after-363
+Hand Test 15 failed: before-250 after-253
+
+Deck Test 15 Test 364 failed: before-360 after-127916424
+
 Discard Test 15 passed: before-43 after-43
-Actions Test 15 passed: before-1 after-3
-Hand Test 16 passed: before-288 after-288
-Deck Test 16 passed: before-276 after-275
+Hand Test 16 failed: before-288 after-291
+
+Deck Test 16 Test 276 failed: before-272 after-127916424
+
 Discard Test 16 passed: before-178 after-178
-Actions Test 16 passed: before-1 after-3
-Hand Test 17 passed: before-399 after-399
-Deck Test 17 passed: before-151 after-150
+Hand Test 17 failed: before-399 after-402
+
+Deck Test 17 Test 151 failed: before-147 after-127916424
+
 Discard Test 17 passed: before-254 after-254
-Actions Test 17 passed: before-3 after-5
-Hand Test 18 passed: before-239 after-239
-Deck Test 18 passed: before-176 after-175
+Hand Test 18 failed: before-239 after-242
+
+Deck Test 18 Test 176 failed: before-172 after-127916424
+
 Discard Test 18 passed: before-368 after-368
-Actions Test 18 passed: before-5 after-7
-Hand Test 19 passed: before-39 after-39
-Deck Test 19 passed: before-86 after-85
+Hand Test 19 failed: before-39 after-42
+
+Deck Test 19 Test 86 failed: before-82 after-127916424
+
 Discard Test 19 passed: before-94 after-94
-Actions Test 19 passed: before-7 after-9
-Hand Test 20 passed: before-467 after-467
-Deck Test 20 passed: before-434 after-433
+Hand Test 20 failed: before-467 after-470
+
+Deck Test 20 Test 434 failed: before-430 after-127916424
+
 Discard Test 20 passed: before-378 after-378
-Actions Test 20 passed: before-1 after-3
-Hand Test 21 passed: before-492 after-492
-Deck Test 21 passed: before-402 after-401
+Hand Test 21 failed: before-492 after-495
+
+Deck Test 21 Test 402 failed: before-398 after-127916424
+
 Discard Test 21 passed: before-317 after-317
-Actions Test 21 passed: before-3 after-5
-Hand Test 22 passed: before-286 after-286
-Deck Test 22 passed: before-301 after-300
+Hand Test 22 failed: before-286 after-289
+
+Deck Test 22 Test 301 failed: before-297 after-127916424
+
 Discard Test 22 passed: before-280 after-280
-Actions Test 22 passed: before-5 after-7
-Hand Test 23 passed: before-119 after-119
-Deck Test 23 passed: before-189 after-188
+Hand Test 23 failed: before-119 after-122
+
+Deck Test 23 Test 189 failed: before-185 after-127916424
+
 Discard Test 23 passed: before-444 after-444
-Actions Test 23 passed: before-7 after-9
-Hand Test 24 passed: before-97 after-97
-Deck Test 24 passed: before-31 after-30
+Hand Test 24 failed: before-97 after-100
+
+Deck Test 24 Test 31 failed: before-27 after-127916424
+
 Discard Test 24 passed: before-117 after-117
-Actions Test 24 passed: before-9 after-11
-Hand Test 25 passed: before-427 after-427
-Deck Test 25 passed: before-175 after-174
+Hand Test 25 failed: before-427 after-430
+
+Deck Test 25 Test 175 failed: before-171 after-127916424
+
 Discard Test 25 passed: before-209 after-209
-Actions Test 25 passed: before-1 after-3
-Hand Test 26 passed: before-86 after-86
-Deck Test 26 passed: before-497 after-496
+Hand Test 26 failed: before-86 after-89
+
+Deck Test 26 Test 497 failed: before-493 after-127916424
+
 Discard Test 26 passed: before-353 after-353
-Actions Test 26 passed: before-1 after-3
-Hand Test 27 passed: before-124 after-124
-Deck Test 27 passed: before-183 after-182
+Hand Test 27 failed: before-124 after-127
+
+Deck Test 27 Test 183 failed: before-179 after-127916424
+
 Discard Test 27 passed: before-219 after-219
-Actions Test 27 passed: before-3 after-5
-Hand Test 28 passed: before-3 after-3
-Deck Test 28 passed: before-232 after-231
+Hand Test 28 failed: before-3 after-6
+
+Deck Test 28 Test 232 failed: before-228 after-127916424
+
 Discard Test 28 passed: before-329 after-329
-Actions Test 28 passed: before-5 after-7
-Hand Test 29 passed: before-215 after-215
-Deck Test 29 passed: before-368 after-367
+Hand Test 29 failed: before-215 after-218
+
+Deck Test 29 Test 368 failed: before-364 after-127916424
+
 Discard Test 29 passed: before-208 after-208
-Actions Test 29 passed: before-1 after-3
-Hand Test 30 passed: before-118 after-118
-Deck Test 30 passed: before-296 after-295
+Hand Test 30 failed: before-118 after-121
+
+Deck Test 30 Test 296 failed: before-292 after-127916424
+
 Discard Test 30 passed: before-223 after-223
-Actions Test 30 passed: before-3 after-5
-Hand Test 31 passed: before-55 after-55
-Deck Test 31 passed: before-451 after-450
+Hand Test 31 failed: before-55 after-58
+
+Deck Test 31 Test 451 failed: before-447 after-127916424
+
 Discard Test 31 passed: before-421 after-421
-Actions Test 31 passed: before-5 after-7
-Hand Test 32 passed: before-341 after-341
-Deck Test 32 passed: before-264 after-263
+Hand Test 32 failed: before-341 after-344
+
+Deck Test 32 Test 264 failed: before-260 after-127916424
+
 Discard Test 32 passed: before-228 after-228
-Actions Test 32 passed: before-1 after-3
-Hand Test 33 passed: before-264 after-264
-Deck Test 33 Test 0 failed: before-33 after-1321621896
+Hand Test 33 failed: before-264 after-267
+
+Deck Test 33 Test 0 failed: before-30 after-127916424
 
 Discard Test 33 failed: before-34 after-0
-Actions Test 33 passed: before-1 after-3
-Hand Test 34 passed: before-243 after-243
-Deck Test 34 passed: before-487 after-486
+Hand Test 34 failed: before-243 after-246
+
+Deck Test 34 Test 487 failed: before-483 after-127916424
+
 Discard Test 34 passed: before-356 after-356
-Actions Test 34 passed: before-3 after-5
-Hand Test 35 passed: before-436 after-436
-Deck Test 35 passed: before-365 after-364
+Hand Test 35 failed: before-436 after-439
+
+Deck Test 35 Test 365 failed: before-361 after-127916424
+
 Discard Test 35 passed: before-359 after-359
-Actions Test 35 passed: before-1 after-3
-Hand Test 36 passed: before-275 after-275
-Deck Test 36 passed: before-437 after-436
+Hand Test 36 failed: before-275 after-278
+
+Deck Test 36 Test 437 failed: before-433 after-127916424
+
 Discard Test 36 passed: before-228 after-228
-Actions Test 36 passed: before-3 after-5
-Hand Test 37 passed: before-395 after-395
-Deck Test 37 passed: before-121 after-120
+Hand Test 37 failed: before-395 after-398
+
+Deck Test 37 Test 121 failed: before-117 after-127916424
+
 Discard Test 37 passed: before-358 after-358
-Actions Test 37 passed: before-1 after-3
-Hand Test 38 passed: before-318 after-318
-Deck Test 38 passed: before-235 after-234
+Hand Test 38 failed: before-318 after-321
+
+Deck Test 38 Test 235 failed: before-231 after-127916424
+
 Discard Test 38 passed: before-293 after-293
-Actions Test 38 passed: before-3 after-5
-Hand Test 39 passed: before-29 after-29
-Deck Test 39 passed: before-11 after-10
+Hand Test 39 failed: before-29 after-32
+
+Deck Test 39 Test 11 failed: before-7 after-127916424
+
 Discard Test 39 passed: before-428 after-428
-Actions Test 39 passed: before-5 after-7
-Hand Test 40 passed: before-113 after-113
-Deck Test 40 passed: before-443 after-442
+Hand Test 40 failed: before-113 after-116
+
+Deck Test 40 Test 443 failed: before-439 after-127916424
+
 Discard Test 40 passed: before-263 after-263
-Actions Test 40 passed: before-7 after-9
-Hand Test 41 passed: before-318 after-318
-Deck Test 41 passed: before-340 after-339
+Hand Test 41 failed: before-318 after-321
+
+Deck Test 41 Test 340 failed: before-336 after-127916424
+
 Discard Test 41 passed: before-404 after-404
-Actions Test 41 passed: before-1 after-3
-Hand Test 42 passed: before-417 after-417
-Deck Test 42 passed: before-369 after-368
+Hand Test 42 failed: before-417 after-420
+
+Deck Test 42 Test 369 failed: before-365 after-127916424
+
 Discard Test 42 passed: before-417 after-417
-Actions Test 42 passed: before-3 after-5
-Hand Test 43 passed: before-183 after-183
-Deck Test 43 passed: before-243 after-242
+Hand Test 43 failed: before-183 after-186
+
+Deck Test 43 Test 243 failed: before-239 after-127916424
+
 Discard Test 43 passed: before-470 after-470
-Actions Test 43 passed: before-5 after-7
-Hand Test 44 passed: before-144 after-144
-Deck Test 44 passed: before-272 after-271
+Hand Test 44 failed: before-144 after-147
+
+Deck Test 44 Test 272 failed: before-268 after-127916424
+
 Discard Test 44 passed: before-225 after-225
-Actions Test 44 passed: before-1 after-3
-Hand Test 45 passed: before-286 after-286
-Deck Test 45 passed: before-139 after-138
+Hand Test 45 failed: before-286 after-289
+
+Deck Test 45 Test 139 failed: before-135 after-127916424
+
 Discard Test 45 passed: before-454 after-454
-Actions Test 45 passed: before-1 after-3
-Hand Test 46 passed: before-197 after-197
-Deck Test 46 passed: before-42 after-41
+Hand Test 46 failed: before-197 after-200
+
+Deck Test 46 Test 42 failed: before-38 after-127916424
+
 Discard Test 46 passed: before-464 after-464
-Actions Test 46 passed: before-3 after-5
-Hand Test 47 passed: before-111 after-111
-Deck Test 47 passed: before-304 after-303
+Hand Test 47 failed: before-111 after-114
+
+Deck Test 47 Test 304 failed: before-300 after-127916424
+
 Discard Test 47 passed: before-348 after-348
-Actions Test 47 passed: before-1 after-3
-Hand Test 48 passed: before-246 after-246
-Deck Test 48 passed: before-299 after-298
+Hand Test 48 failed: before-246 after-249
+
+Deck Test 48 Test 299 failed: before-295 after-127916424
+
 Discard Test 48 passed: before-343 after-343
-Actions Test 48 passed: before-1 after-3
-Hand Test 49 passed: before-310 after-310
-Deck Test 49 passed: before-422 after-421
+Hand Test 49 failed: before-310 after-313
+
+Deck Test 49 Test 422 failed: before-418 after-127916424
+
 Discard Test 49 passed: before-311 after-311
-Actions Test 49 passed: before-3 after-5
-Hand Test 50 passed: before-378 after-378
-Deck Test 50 passed: before-161 after-160
+Hand Test 50 failed: before-378 after-381
+
+Deck Test 50 Test 161 failed: before-157 after-127916424
+
 Discard Test 50 passed: before-230 after-230
-Actions Test 50 passed: before-5 after-7
-Hand Test 51 passed: before-126 after-126
-Deck Test 51 passed: before-236 after-235
+Hand Test 51 failed: before-126 after-129
+
+Deck Test 51 Test 236 failed: before-232 after-127916424
+
 Discard Test 51 passed: before-444 after-444
-Actions Test 51 passed: before-7 after-9
-Hand Test 52 passed: before-282 after-282
-Deck Test 52 passed: before-208 after-207
+Hand Test 52 failed: before-282 after-285
+
+Deck Test 52 Test 208 failed: before-204 after-127916424
+
 Discard Test 52 passed: before-416 after-416
-Actions Test 52 passed: before-1 after-3
-Hand Test 53 passed: before-124 after-124
-Deck Test 53 passed: before-137 after-136
+Hand Test 53 failed: before-124 after-127
+
+Deck Test 53 Test 137 failed: before-133 after-127916424
+
 Discard Test 53 passed: before-62 after-62
-Actions Test 53 passed: before-1 after-3
-Hand Test 54 passed: before-379 after-379
-Deck Test 54 passed: before-452 after-451
+Hand Test 54 failed: before-379 after-382
+
+Deck Test 54 Test 452 failed: before-448 after-127916424
+
 Discard Test 54 passed: before-399 after-399
-Actions Test 54 passed: before-3 after-5
-Hand Test 55 passed: before-131 after-131
-Deck Test 55 passed: before-71 after-70
+Hand Test 55 failed: before-131 after-134
+
+Deck Test 55 Test 71 failed: before-67 after-127916424
+
 Discard Test 55 passed: before-473 after-473
-Actions Test 55 passed: before-1 after-3
-Hand Test 56 passed: before-160 after-160
-Deck Test 56 passed: before-433 after-432
+Hand Test 56 failed: before-160 after-163
+
+Deck Test 56 Test 433 failed: before-429 after-127916424
+
 Discard Test 56 passed: before-394 after-394
-Actions Test 56 passed: before-3 after-5
-Hand Test 57 passed: before-496 after-496
-Deck Test 57 passed: before-481 after-480
+Hand Test 57 failed: before-496 after-499
+
+Deck Test 57 Test 481 failed: before-477 after-127916424
+
 Discard Test 57 passed: before-399 after-399
-Actions Test 57 passed: before-1 after-3
-Hand Test 58 passed: before-190 after-190
-Deck Test 58 passed: before-313 after-312
+Hand Test 58 failed: before-190 after-193
+
+Deck Test 58 Test 313 failed: before-309 after-127916424
+
 Discard Test 58 passed: before-168 after-168
-Actions Test 58 passed: before-1 after-3
-Hand Test 59 passed: before-340 after-340
-Deck Test 59 passed: before-466 after-465
+Hand Test 59 failed: before-340 after-343
+
+Deck Test 59 Test 466 failed: before-462 after-127916424
+
 Discard Test 59 passed: before-84 after-84
-Actions Test 59 passed: before-1 after-3
-Hand Test 60 passed: before-436 after-436
-Deck Test 60 passed: before-376 after-375
+Hand Test 60 failed: before-436 after-439
+
+Deck Test 60 Test 376 failed: before-372 after-127916424
+
 Discard Test 60 passed: before-42 after-42
-Actions Test 60 passed: before-1 after-3
-Hand Test 61 passed: before-418 after-418
-Deck Test 61 passed: before-256 after-255
+Hand Test 61 failed: before-418 after-421
+
+Deck Test 61 Test 256 failed: before-252 after-127916424
+
 Discard Test 61 passed: before-179 after-179
-Actions Test 61 passed: before-1 after-3
-Hand Test 62 passed: before-159 after-159
-Deck Test 62 passed: before-348 after-347
+Hand Test 62 failed: before-159 after-162
+
+Deck Test 62 Test 348 failed: before-344 after-127916424
+
 Discard Test 62 passed: before-172 after-172
-Actions Test 62 passed: before-1 after-3
-Hand Test 63 passed: before-87 after-87
-Deck Test 63 passed: before-210 after-209
+Hand Test 63 failed: before-87 after-90
+
+Deck Test 63 Test 210 failed: before-206 after-127916424
+
 Discard Test 63 passed: before-342 after-342
-Actions Test 63 passed: before-3 after-5
-Hand Test 64 passed: before-321 after-321
-Deck Test 64 passed: before-213 after-212
+Hand Test 64 failed: before-321 after-324
+
+Deck Test 64 Test 213 failed: before-209 after-127916424
+
 Discard Test 64 passed: before-372 after-372
-Actions Test 64 passed: before-1 after-3
-Hand Test 65 passed: before-404 after-404
-Deck Test 65 passed: before-99 after-98
+Hand Test 65 failed: before-404 after-407
+
+Deck Test 65 Test 99 failed: before-95 after-127916424
+
 Discard Test 65 passed: before-221 after-221
-Actions Test 65 passed: before-1 after-3
-Hand Test 66 passed: before-205 after-205
-Deck Test 66 passed: before-440 after-439
+Hand Test 66 failed: before-205 after-208
+
+Deck Test 66 Test 440 failed: before-436 after-127916424
+
 Discard Test 66 passed: before-167 after-167
-Actions Test 66 passed: before-1 after-3
-Hand Test 67 passed: before-158 after-158
-Deck Test 67 passed: before-150 after-149
+Hand Test 67 failed: before-158 after-161
+
+Deck Test 67 Test 150 failed: before-146 after-127916424
+
 Discard Test 67 passed: before-484 after-484
-Actions Test 67 passed: before-3 after-5
-Hand Test 68 passed: before-396 after-396
-Deck Test 68 passed: before-422 after-421
+Hand Test 68 failed: before-396 after-399
+
+Deck Test 68 Test 422 failed: before-418 after-127916424
+
 Discard Test 68 passed: before-269 after-269
-Actions Test 68 passed: before-5 after-7
-Hand Test 69 passed: before-472 after-472
-Deck Test 69 passed: before-84 after-83
+Hand Test 69 failed: before-472 after-475
+
+Deck Test 69 Test 84 failed: before-80 after-127916424
+
 Discard Test 69 passed: before-292 after-292
-Actions Test 69 passed: before-7 after-9
-Hand Test 70 passed: before-222 after-222
-Deck Test 70 passed: before-125 after-124
+Hand Test 70 failed: before-222 after-225
+
+Deck Test 70 Test 125 failed: before-121 after-127916424
+
 Discard Test 70 passed: before-385 after-385
-Actions Test 70 passed: before-9 after-11
-Hand Test 71 passed: before-213 after-213
-Deck Test 71 passed: before-42 after-41
+Hand Test 71 failed: before-213 after-216
+
+Deck Test 71 Test 42 failed: before-38 after-127916424
+
 Discard Test 71 passed: before-398 after-398
-Actions Test 71 passed: before-1 after-3
-Hand Test 72 passed: before-209 after-209
-Deck Test 72 passed: before-24 after-23
+Hand Test 72 failed: before-209 after-212
+
+Deck Test 72 Test 24 failed: before-20 after-127916424
+
 Discard Test 72 passed: before-90 after-90
-Actions Test 72 passed: before-1 after-3
-Hand Test 73 passed: before-155 after-155
-Deck Test 73 passed: before-336 after-335
+Hand Test 73 failed: before-155 after-158
+
+Deck Test 73 Test 336 failed: before-332 after-127916424
+
 Discard Test 73 passed: before-232 after-232
-Actions Test 73 passed: before-3 after-5
-Hand Test 74 passed: before-273 after-273
-Deck Test 74 passed: before-379 after-378
+Hand Test 74 failed: before-273 after-276
+
+Deck Test 74 Test 379 failed: before-375 after-127916424
+
 Discard Test 74 passed: before-269 after-269
-Actions Test 74 passed: before-1 after-3
-Hand Test 75 passed: before-142 after-142
-Deck Test 75 passed: before-255 after-254
+Hand Test 75 failed: before-142 after-145
+
+Deck Test 75 Test 255 failed: before-251 after-127916424
+
 Discard Test 75 passed: before-360 after-360
-Actions Test 75 passed: before-3 after-5
-Hand Test 76 passed: before-121 after-121
-Deck Test 76 passed: before-493 after-492
+Hand Test 76 failed: before-121 after-124
+
+Deck Test 76 Test 493 failed: before-489 after-127916424
+
 Discard Test 76 passed: before-205 after-205
-Actions Test 76 passed: before-1 after-3
-Hand Test 77 passed: before-254 after-254
-Deck Test 77 passed: before-113 after-112
+Hand Test 77 failed: before-254 after-257
+
+Deck Test 77 Test 113 failed: before-109 after-127916424
+
 Discard Test 77 passed: before-461 after-461
-Actions Test 77 passed: before-1 after-3
-Hand Test 78 passed: before-202 after-202
-Deck Test 78 passed: before-444 after-443
+Hand Test 78 failed: before-202 after-205
+
+Deck Test 78 Test 444 failed: before-440 after-127916424
+
 Discard Test 78 passed: before-202 after-202
-Actions Test 78 passed: before-1 after-3
-Hand Test 79 passed: before-368 after-368
-Deck Test 79 passed: before-21 after-20
+Hand Test 79 failed: before-368 after-371
+
+Deck Test 79 Test 21 failed: before-17 after-127916424
+
 Discard Test 79 passed: before-342 after-342
-Actions Test 79 passed: before-1 after-3
-Hand Test 80 passed: before-458 after-458
-Deck Test 80 passed: before-372 after-371
+Hand Test 80 failed: before-458 after-461
+
+Deck Test 80 Test 372 failed: before-368 after-127916424
+
 Discard Test 80 passed: before-408 after-408
-Actions Test 80 passed: before-3 after-5
-Hand Test 81 passed: before-248 after-248
-Deck Test 81 passed: before-308 after-307
+Hand Test 81 failed: before-248 after-251
+
+Deck Test 81 Test 308 failed: before-304 after-127916424
+
 Discard Test 81 passed: before-253 after-253
-Actions Test 81 passed: before-1 after-3
-Hand Test 82 passed: before-390 after-390
-Deck Test 82 passed: before-133 after-132
+Hand Test 82 failed: before-390 after-393
+
+Deck Test 82 Test 133 failed: before-129 after-127916424
+
 Discard Test 82 passed: before-148 after-148
-Actions Test 82 passed: before-1 after-3
-Hand Test 83 passed: before-29 after-29
-Deck Test 83 passed: before-246 after-245
+Hand Test 83 failed: before-29 after-32
+
+Deck Test 83 Test 246 failed: before-242 after-127916424
+
 Discard Test 83 passed: before-368 after-368
-Actions Test 83 passed: before-1 after-3
-Hand Test 84 passed: before-249 after-249
-Deck Test 84 passed: before-288 after-287
+Hand Test 84 failed: before-249 after-252
+
+Deck Test 84 Test 288 failed: before-284 after-127916424
+
 Discard Test 84 passed: before-297 after-297
-Actions Test 84 passed: before-3 after-5
-Hand Test 85 passed: before-497 after-497
-Deck Test 85 passed: before-33 after-32
+Hand Test 85 failed: before-497 after-500
+
+Deck Test 85 Test 33 failed: before-29 after-127916424
+
 Discard Test 85 passed: before-363 after-363
-Actions Test 85 passed: before-1 after-3
-Hand Test 86 passed: before-152 after-152
-Deck Test 86 passed: before-186 after-185
+Hand Test 86 failed: before-152 after-155
+
+Deck Test 86 Test 186 failed: before-182 after-127916424
+
 Discard Test 86 passed: before-125 after-125
-Actions Test 86 passed: before-3 after-5
-Hand Test 87 passed: before-229 after-229
-Deck Test 87 passed: before-188 after-187
+Hand Test 87 failed: before-229 after-232
+
+Deck Test 87 Test 188 failed: before-184 after-127916424
+
 Discard Test 87 passed: before-157 after-157
-Actions Test 87 passed: before-5 after-7
-Hand Test 88 passed: before-460 after-460
-Deck Test 88 passed: before-414 after-413
+Hand Test 88 failed: before-460 after-463
+
+Deck Test 88 Test 414 failed: before-410 after-127916424
+
 Discard Test 88 passed: before-421 after-421
-Actions Test 88 passed: before-7 after-9
-Hand Test 89 passed: before-248 after-248
-Deck Test 89 passed: before-27 after-26
+Hand Test 89 failed: before-248 after-251
+
+Deck Test 89 Test 27 failed: before-23 after-127916424
+
 Discard Test 89 passed: before-50 after-50
-Actions Test 89 passed: before-9 after-11
-Hand Test 90 passed: before-199 after-199
-Deck Test 90 passed: before-294 after-293
+Hand Test 90 failed: before-199 after-202
+
+Deck Test 90 Test 294 failed: before-290 after-127916424
+
 Discard Test 90 passed: before-197 after-197
-Actions Test 90 passed: before-11 after-13
-Hand Test 91 passed: before-403 after-403
-Deck Test 91 passed: before-2 after-1
-Discard Test 91 passed: before-428 after-428
-Actions Test 91 passed: before-1 after-3
-Hand Test 92 passed: before-159 after-159
-Deck Test 92 passed: before-147 after-146
+Hand Test 91 failed: before-403 after-406
+
+Deck Test 91 Test 2 failed: before-426 after-127916424
+
+Discard Test 91 failed: before-428 after-0
+Hand Test 92 failed: before-159 after-162
+
+Deck Test 92 Test 147 failed: before-143 after-127916424
+
 Discard Test 92 passed: before-38 after-38
-Actions Test 92 passed: before-3 after-5
-Hand Test 93 passed: before-192 after-192
-Deck Test 93 passed: before-134 after-133
+Hand Test 93 failed: before-192 after-195
+
+Deck Test 93 Test 134 failed: before-130 after-127916424
+
 Discard Test 93 passed: before-339 after-339
-Actions Test 93 passed: before-1 after-3
-Hand Test 94 passed: before-49 after-49
-Deck Test 94 passed: before-4 after-3
+Hand Test 94 failed: before-49 after-52
+
+Deck Test 94 Test 4 failed: before-0 after-127916424
+
 Discard Test 94 passed: before-129 after-129
-Actions Test 94 passed: before-1 after-3
-Hand Test 95 passed: before-335 after-335
-Deck Test 95 passed: before-429 after-428
+Hand Test 95 failed: before-335 after-338
+
+Deck Test 95 Test 429 failed: before-425 after-127916424
+
 Discard Test 95 passed: before-343 after-343
-Actions Test 95 passed: before-3 after-5
-Hand Test 96 passed: before-449 after-449
-Deck Test 96 passed: before-238 after-237
+Hand Test 96 failed: before-449 after-452
+
+Deck Test 96 Test 238 failed: before-234 after-127916424
+
 Discard Test 96 passed: before-471 after-471
-Actions Test 96 passed: before-5 after-7
-Hand Test 97 passed: before-295 after-295
-Deck Test 97 passed: before-488 after-487
+Hand Test 97 failed: before-295 after-298
+
+Deck Test 97 Test 488 failed: before-484 after-127916424
+
 Discard Test 97 passed: before-292 after-292
-Actions Test 97 passed: before-7 after-9
-Hand Test 98 passed: before-182 after-182
-Deck Test 98 passed: before-329 after-328
+Hand Test 98 failed: before-182 after-185
+
+Deck Test 98 Test 329 failed: before-325 after-127916424
+
 Discard Test 98 passed: before-390 after-390
-Actions Test 98 passed: before-1 after-3
-Hand Test 99 passed: before-232 after-232
-Deck Test 99 passed: before-69 after-68
+Hand Test 99 failed: before-232 after-235
+
+Deck Test 99 Test 69 failed: before-65 after-127916424
+
 Discard Test 99 passed: before-326 after-326
-Actions Test 99 passed: before-3 after-5
 
 
-Status: 2 failured and 398 passed tests
+Status: 202 failured and 98 passed tests
 100 games run
 File 'dominion.c'
-Lines executed:23.93% of 560
+Lines executed:24.29% of 560
 Creating 'dominion.c.gcov'
 
         -:    0:Source:dominion.c
@@ -421,12 +520,12 @@ Creating 'dominion.c.gcov'
         -:    6:#include <math.h>
         -:    7:#include <stdlib.h>
         -:    8:
-     1988:    9:int compare(const void* a, const void* b) {
-     1988:   10:  if (*(int*)a > *(int*)b)
+     3788:    9:int compare(const void* a, const void* b) {
+     3788:   10:  if (*(int*)a > *(int*)b)
     #####:   11:    return 1;
-     1988:   12:  if (*(int*)a < *(int*)b)
-      508:   13:    return -1;
-     1480:   14:  return 0;
+     3788:   12:  if (*(int*)a < *(int*)b)
+      621:   13:    return -1;
+     3167:   14:  return 0;
         -:   15:}
         -:   16:
     #####:   17:struct gameState* newGame() {
@@ -614,34 +713,34 @@ Creating 'dominion.c.gcov'
        49:  199:  return 0;
         -:  200:}
         -:  201:
-      128:  202:int shuffle(int player, struct gameState *state) {
+      129:  202:int shuffle(int player, struct gameState *state) {
         -:  203: 
         -:  204:
         -:  205:  int newDeck[MAX_DECK];
-      128:  206:  int newDeckPos = 0;
+      129:  206:  int newDeckPos = 0;
         -:  207:  int card;
         -:  208:  int i;
         -:  209:
-      128:  210:  if (state->deckCount[player] < 1)
+      129:  210:  if (state->deckCount[player] < 1)
     #####:  211:    return -1;
-      128:  212:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
+      129:  212:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
         -:  213:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
         -:  214:
-     1560:  215:  while (state->deckCount[player] > 0) {
-     1304:  216:    card = floor(Random() * state->deckCount[player]);
-     1304:  217:    newDeck[newDeckPos] = state->deck[player][card];
-     1304:  218:    newDeckPos++;
-     4513:  219:    for (i = card; i < state->deckCount[player]-1; i++) {
-     3209:  220:      state->deck[player][i] = state->deck[player][i+1];
+     1990:  215:  while (state->deckCount[player] > 0) {
+     1732:  216:    card = floor(Random() * state->deckCount[player]);
+     1732:  217:    newDeck[newDeckPos] = state->deck[player][card];
+     1732:  218:    newDeckPos++;
+    50498:  219:    for (i = card; i < state->deckCount[player]-1; i++) {
+    48766:  220:      state->deck[player][i] = state->deck[player][i+1];
         -:  221:    }
-     1304:  222:    state->deckCount[player]--;
+     1732:  222:    state->deckCount[player]--;
         -:  223:  }
-     1432:  224:  for (i = 0; i < newDeckPos; i++) {
-     1304:  225:    state->deck[player][i] = newDeck[i];
-     1304:  226:    state->deckCount[player]++;
+     1861:  224:  for (i = 0; i < newDeckPos; i++) {
+     1732:  225:    state->deck[player][i] = newDeck[i];
+     1732:  226:    state->deckCount[player]++;
         -:  227:  }
         -:  228:
-      128:  229:  return 0;
+      129:  229:  return 0;
         -:  230:}
         -:  231:
     #####:  232:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
@@ -938,62 +1037,62 @@ Creating 'dominion.c.gcov'
     #####:  523:  return 0;
         -:  524:}
         -:  525:
-      345:  526:int drawCard(int player, struct gameState *state)
+      645:  526:int drawCard(int player, struct gameState *state)
         -:  527:{	int count;
         -:  528:  int deckCounter;
-      345:  529:  if (state->deckCount[player] <= 0){//Deck is empty
+      645:  529:  if (state->deckCount[player] <= 0){//Deck is empty
         -:  530:    
         -:  531:    //Step 1 Shuffle the discard pile back into a deck
         -:  532:    int i;
         -:  533:    //Move discard to deck
-       35:  534:    for (i = 0; i < state->discardCount[player];i++){
-       34:  535:      state->deck[player][i] = state->discard[player][i];
-       34:  536:      state->discard[player][i] = -1;
+      464:  534:    for (i = 0; i < state->discardCount[player];i++){
+      462:  535:      state->deck[player][i] = state->discard[player][i];
+      462:  536:      state->discard[player][i] = -1;
         -:  537:    }
         -:  538:
-        1:  539:    state->deckCount[player] = state->discardCount[player];
-        1:  540:    state->discardCount[player] = 0;//Reset discard
+        2:  539:    state->deckCount[player] = state->discardCount[player];
+        2:  540:    state->discardCount[player] = 0;//Reset discard
         -:  541:
         -:  542:    //Shufffle the deck
-        1:  543:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+        2:  543:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
         -:  544:   
         -:  545:    if (DEBUG){//Debug statements
         -:  546:      printf("Deck count now: %d\n", state->deckCount[player]);
         -:  547:    }
         -:  548:    
-        1:  549:    state->discardCount[player] = 0;
+        2:  549:    state->discardCount[player] = 0;
         -:  550:
         -:  551:    //Step 2 Draw Card
-        1:  552:    count = state->handCount[player];//Get current player's hand count
+        2:  552:    count = state->handCount[player];//Get current player's hand count
         -:  553:    
         -:  554:    if (DEBUG){//Debug statements
         -:  555:      printf("Current hand count: %d\n", count);
         -:  556:    }
         -:  557:    
-        1:  558:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        2:  558:    deckCounter = state->deckCount[player];//Create a holder for the deck count
         -:  559:
-        1:  560:    if (deckCounter == 0)
+        2:  560:    if (deckCounter == 0)
     #####:  561:      return -1;
         -:  562:
-        1:  563:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
-        1:  564:    state->deckCount[player]--;
-        1:  565:    state->handCount[player]++;//Increment hand count
+        2:  563:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+        2:  564:    state->deckCount[player]--;
+        2:  565:    state->handCount[player]++;//Increment hand count
         -:  566:  }
         -:  567:
         -:  568:  else{
-      344:  569:    int count = state->handCount[player];//Get current hand count for player
+      643:  569:    int count = state->handCount[player];//Get current hand count for player
         -:  570:    int deckCounter;
         -:  571:    if (DEBUG){//Debug statements
         -:  572:      printf("Current hand count: %d\n", count);
         -:  573:    }
         -:  574:
-      344:  575:    deckCounter = state->deckCount[player];//Create holder for the deck count
-      344:  576:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
-      344:  577:    state->deckCount[player]--;
-      344:  578:    state->handCount[player]++;//Increment hand count
+      643:  575:    deckCounter = state->deckCount[player];//Create holder for the deck count
+      643:  576:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+      643:  577:    state->deckCount[player]--;
+      643:  578:    state->handCount[player]++;//Increment hand count
         -:  579:  }
         -:  580:
-      345:  581:  return 0;
+      645:  581:  return 0;
         -:  582:}
         -:  583:
     #####:  584:int getCost(int cardNumber)
@@ -1060,16 +1159,16 @@ Creating 'dominion.c.gcov'
         -:  645:}
         -:  646:
         -:  647:
-    #####:  648:int Smithy(int currentPlayer, struct gameState *state, int handPos){
+      100:  648:int Smithy(int currentPlayer, struct gameState *state, int handPos){
         -:  649:     //+3 Cards
-    #####:  650:  for (int i = 0; i <= 3; i++)
+      500:  650:  for (int i = 0; i <= 3; i++)
         -:  651:  {
-    #####:  652:    drawCard(currentPlayer, state);
+      400:  652:    drawCard(currentPlayer, state);
         -:  653:  }
         -:  654:      
         -:  655:  //discard card from hand
-    #####:  656:  discardCard(currentPlayer, handPos, state, 0);
-    #####:  657:  return 0;
+      100:  656:  discardCard(currentPlayer, handPos, state, 0);
+      100:  657:  return 0;
         -:  658:}
         -:  659:
         -:  660: 
@@ -1099,16 +1198,16 @@ Creating 'dominion.c.gcov'
         -:  684: }
         -:  685:
         -:  686:
-      100:  687:int Village(int currentPlayer, struct gameState *state, int handPos){
+    #####:  687:int Village(int currentPlayer, struct gameState *state, int handPos){
         -:  688:   //+1 Card
-      100:  689:      drawCard(currentPlayer, state);
+    #####:  689:      drawCard(currentPlayer, state);
         -:  690:      
         -:  691:      //+2 Actions
-      100:  692:      state->numActions = state->numActions + 2;
+    #####:  692:      state->numActions = state->numActions + 2;
         -:  693:      
         -:  694:      //discard played card from hand
-      100:  695:      discardCard(handPos, currentPlayer, state, 1);
-      100:  696:      return 0;
+    #####:  695:      discardCard(handPos, currentPlayer, state, 1);
+    #####:  696:      return 0;
         -:  697:}
         -:  698:
         -:  699:
@@ -1394,7 +1493,7 @@ Creating 'dominion.c.gcov'
     #####:  979:      return 0;
         -:  980:		
         -:  981:    case smithy:
-    #####:  982:      return Smithy(currentPlayer, state, handPos);
+      100:  982:      return Smithy(currentPlayer, state, handPos);
         -:  983: //      //+3 Cards
         -:  984: //      for (i = 0; i < 3; i++)
         -:  985:	// {
@@ -1406,7 +1505,7 @@ Creating 'dominion.c.gcov'
         -:  991: //      return 0;
         -:  992:		
         -:  993:    case village:
-      100:  994:      return Village(handPos, state, currentPlayer);
+    #####:  994:      return Village(handPos, state, currentPlayer);
         -:  995:      // //+1 Card
         -:  996:      // drawCard(currentPlayer, state);
         -:  997:			
@@ -1797,8 +1896,8 @@ Creating 'dominion.c.gcov'
       100: 1382:  if (trashFlag < 1)
         -: 1383:    {
         -: 1384:      //add card to played pile
-    #####: 1385:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
-    #####: 1386:      state->playedCardCount++;
+      100: 1385:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
+      100: 1386:      state->playedCardCount++;
         -: 1387:    }
         -: 1388:	
         -: 1389:  //set played card to -1
